@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
   printf("hello, world\n");
   printf("%x", 100000000);
 }
